@@ -2,10 +2,10 @@ dataStructures/DictionaryADT.java
  dataStructures.DictionaryADT
 dataStructures/PhoneNumber.java
  dataStructures.PhoneNumber
+dataStructures/HashNode.java
+ dataStructures.HashNode
+dataStructures/HashTable.java
+ dataStructures.HashTable
 dataStructures/PhoneBook.java
  dataStructures.PhoneBook
  dataStructures.PhoneBook$1
-dataStructures/HashTable.java
- dataStructures.HashTable
-dataStructures/HashNode.java
- dataStructures.HashNode

@@ -105,8 +105,10 @@ public class PhoneBook {
 
     public static void main(String[] args) {
         PhoneBook phoneBook = new PhoneBook(10);
-        phoneBook.load("D:\\file2.json");
+        phoneBook.load("D:\\file.json");
+        phoneBook.printNames();
         phoneBook.printAll();
+
 
     }
 }
